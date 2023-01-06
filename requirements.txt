@@ -1,0 +1,4 @@
+pandas
+sqlalchemy
+s3fs
+numpy
